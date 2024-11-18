@@ -1,6 +1,6 @@
 # messengerclone
 #ToDo
-  -message send
+  -message sent
   -messege recived
   -ui
   -database
